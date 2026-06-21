@@ -270,3 +270,9 @@ CALCULATE(
 ## License
 
 MIT — free for commercial and educational use.
+
+## Author
+
+Sai Teja Panda
+
+National Institute Of Technology Surathkal
